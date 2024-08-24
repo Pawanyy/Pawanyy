@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I am an energetic and passionate Software Developer Always Looking for an Opportunity to Enhance My Abilities. I have working experience in C#, Java, PHP, JavaScript, Dot Net, Laravel, MySQL, Unity & WinForms with SQL Server and Interested to Explore this Journey.
+I am an energetic and passionate Software Developer Always Looking for an Opportunity to Enhance My Abilities. I have working experience in C#, JavaScript, Dot Net, MySQL, WinForms with SQL Server and Interested to Explore this Journey.
 
 *   🌍  I'm based in Mumbai, India
 *   🖥️  See my portfolio at [Here](http://pawanyadav.vercel.app/)
 *   ✉️  You can contact me at [yadavpawan69290@gmail.com](mailto:yadavpawan69290@gmail.com)
-*   🧠  I'm learning Angular, Dot Net Core
+*   🧠  I'm learning MERN Stack 
 *   ⚡  I like learning new technologies.
 ### Skills 
 <p align="left">
